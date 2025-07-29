@@ -6,6 +6,9 @@ import { configureServer } from './server.js'
 
 // https://vite.dev/config/
 export default defineConfig({
+  publicPath: process.env.NODE_ENV === 'production' 
+  ? '/eam_demo/' 
+  : '/',
   plugins: [
     vue(),
     vueDevTools(),
