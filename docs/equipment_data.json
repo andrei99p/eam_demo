@@ -1,0 +1,38 @@
+[
+  {
+    "categorie_informatii": "Equipment Type A",
+    "capitole": "Chapter 1",
+    "subcapitole": "Subchapter 1.1",
+    "diviziune": "Division A",
+    "componenta": "Motor",
+    "latitude": 44.4268,
+    "longitude": 26.1025
+  },
+  {
+    "categorie_informatii": "Equipment Type B",
+    "capitole": "Chapter 2",
+    "subcapitole": "Subchapter 2.1",
+    "diviziune": "Division B",
+    "componenta": "Temperature Sensor",
+    "latitude": 44.428,
+    "longitude": 26.104
+  },
+  {
+    "categorie_informatii": "Equipment Type C",
+    "capitole": "Chapter 3",
+    "subcapitole": "Subchapter 3.1",
+    "diviziune": "Division C",
+    "componenta": "Drill",
+    "latitude": 44.429,
+    "longitude": 26.106
+  },
+  {
+    "categorie_informatii": "1",
+    "capitole": "2",
+    "subcapitole": "3",
+    "diviziune": "4",
+    "componenta": "5",
+    "latitude": 44.444056,
+    "longitude": 26.07851
+  }
+]
