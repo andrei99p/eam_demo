@@ -34,5 +34,14 @@
     "componenta": "5",
     "latitude": 44.444056,
     "longitude": 26.07851
+  },
+  {
+    "categorie_informatii": "a",
+    "capitole": "a",
+    "subcapitole": "d",
+    "diviziune": "f",
+    "componenta": "u",
+    "latitude": 44.446391,
+    "longitude": 26.07412
   }
 ]
